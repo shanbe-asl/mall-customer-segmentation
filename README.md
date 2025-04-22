@@ -7,7 +7,7 @@ This notebook performs an end-to-end clustering analysis of 200 mall customers:
 4. Elbow method & K‑Means clustering
 5. Cluster profiling and business‑friendly segment names
 
-![Segment Scatter](path/to/screenshot.png)  <!-- optional screenshot -->
+![Segment Scatter](scatter.png)  
 
 ## How to run
 ```bash
