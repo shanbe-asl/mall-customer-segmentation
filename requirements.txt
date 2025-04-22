@@ -1,0 +1,1 @@
+pip freeze | grep -E 'pandas|scikit-learn|matplotlib|seaborn' > requirements.txt
